@@ -5,9 +5,13 @@ Business rule:
 - The user can print the page of Charge, in Eye Icon
 
 Installation
-- Necessary PHP 7.4, because of authentication
-- Change the file ".env".
-- Import the database.
+- Necessary PHP 7.4 and Composer;
+- Change the file ".env";
+- Import the database;
+- Start your server And your database. In my case is: Apache and MySQL (XAMPP and PHPMyAdmin);
+- Open the Terminal > access the directory > type it: php artisan serve
+- Paste the address in your url
+
 
 functionalities
 - Print Charge page.
