@@ -12,3 +12,4 @@ Installation
 functionalities
 - Print Charge page.
 - Spending control
+- Log in and Register of User
